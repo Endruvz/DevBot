@@ -1,14 +1,14 @@
 # Contents
-- [Requirements](Requirements)
-- [Running the program](Runningtheprogram)
+- [Requirements](#Requirements)
+- [Running the program](#Runningtheprogram)
 
-# Requirements
+# [Requirements](#Requirements)
 - Discord Bot (You can create one [here](https://discord.com/developers/applications).)
 - Python 3.8 or above.
 -   Recomended 3.10.x
 - A private discord server you own with enabled community.
 
-# Running the program
+# [Running the program](#Runningtheprogram)
 ### Step 1.
 Download python if you haven't already. ([here](https://www.python.org)) 
 
