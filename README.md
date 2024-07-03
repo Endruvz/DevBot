@@ -1,6 +1,11 @@
 # Contents
+- [About](About)
 - [Requirements](#Requirements)
 - [Running the program](#Running-the-program)
+
+# About
+DevBot is a discord bot that helps you get the active developer badge.
+It's simple to use and open source.
 
 # Requirements
 - Discord Bot (You can create one [here](https://discord.com/developers/applications).)
