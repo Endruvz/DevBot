@@ -1,6 +1,6 @@
 # Contents
 - [Requirements](#Requirements)
-- [Running the program](#Runningtheprogram)
+- [Running the program](#Header2)
 
 # [Requirements](#Requirements)
 - Discord Bot (You can create one [here](https://discord.com/developers/applications).)
@@ -8,7 +8,7 @@
 -   Recomended 3.10.x
 - A private discord server you own with enabled community.
 
-# [Running the program](#Runningtheprogram)
+# [Running the program](#Header2)
 ### Step 1.
 Download python if you haven't already. ([here](https://www.python.org)) 
 
