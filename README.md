@@ -44,3 +44,6 @@ In chat type '''/''' and discord should autofill with the command '''/start''' a
 
 ### Step 8.
 Wait 24h for the bot activity to update and get your active developer badge [here](https://discord.com/developers/active-developer).
+
+# Contact
+E-mail: busyendruvz@gmail.com
